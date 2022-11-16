@@ -1,0 +1,6 @@
+server:
+    tomcat:
+        keep-alive-timeout: 10
+        threads:
+            min-spare: 1
+            max: 2
